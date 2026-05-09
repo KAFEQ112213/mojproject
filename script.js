@@ -1,1 +1,1 @@
-
+console.log("Strona działa!");
